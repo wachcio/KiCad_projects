@@ -5842,7 +5842,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 184.15 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6355,7 +6355,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 22.86 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7073,7 +7073,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 226.06 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7242,7 +7242,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 24.13 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8019,7 +8019,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 184.912 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8536,7 +8536,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 62.992 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9720,7 +9720,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 66.04 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9909,7 +9909,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 66.802 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10402,7 +10402,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 62.23 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10591,7 +10591,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 173.99 113.792 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10670,7 +10670,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 24.892 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11151,7 +11151,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 226.822 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11230,7 +11230,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 23.622 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11981,7 +11981,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 182.88 113.792 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12138,7 +12138,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 107.442 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12295,7 +12295,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 103.632 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12542,7 +12542,7 @@
 				)
 			)
 		)
-		(property "Value" "150R"
+		(property "Value" "270R"
 			(at 144.272 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13972,7 +13972,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 106.68 119.38 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14239,7 +14239,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 143.51 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15009,7 +15009,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4,7K"
 			(at 102.87 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
