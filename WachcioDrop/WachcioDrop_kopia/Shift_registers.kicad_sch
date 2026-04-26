@@ -5851,7 +5851,7 @@
 		)
 		(uuid "ffb34244-5384-4341-aeae-68c994a467cb")
 	)
-	(label "section4"
+	(label "sekcja4"
 		(at 177.8 60.96 90)
 		(effects
 			(font
@@ -5861,7 +5861,7 @@
 		)
 		(uuid "01c26b16-35bb-4c95-9033-5cc907accc95")
 	)
-	(label "section2"
+	(label "sekcja2"
 		(at 96.52 60.96 90)
 		(effects
 			(font
@@ -5871,7 +5871,7 @@
 		)
 		(uuid "01d09068-0c2c-43f1-aa46-498323074b6d")
 	)
-	(label "section8"
+	(label "sekcja8"
 		(at 214.63 143.51 180)
 		(effects
 			(font
@@ -5891,7 +5891,7 @@
 		)
 		(uuid "08ccd3a5-adff-411d-966e-148ad09b79bd")
 	)
-	(label "section5_LED_K"
+	(label "sekcja5_LED_K"
 		(at 247.65 50.8 90)
 		(effects
 			(font
@@ -5931,7 +5931,7 @@
 		)
 		(uuid "119a66c0-e0f3-44f8-b326-5d211d0ce1f1")
 	)
-	(label "section4_LED_K"
+	(label "sekcja4_LED_K"
 		(at 205.74 50.8 90)
 		(effects
 			(font
@@ -5961,7 +5961,7 @@
 		)
 		(uuid "241e7ca6-aa70-41c3-8e78-c0808f45bff3")
 	)
-	(label "section6_LED_A"
+	(label "sekcja6_LED_A"
 		(at 29.21 124.46 180)
 		(effects
 			(font
@@ -6001,7 +6001,7 @@
 		)
 		(uuid "2b87ea24-0972-41e8-a519-5a820309f43f")
 	)
-	(label "section6_LED_K"
+	(label "sekcja6_LED_K"
 		(at 44.45 123.19 90)
 		(effects
 			(font
@@ -6031,7 +6031,7 @@
 		)
 		(uuid "3535f5e3-824a-468b-a8e3-67a747cbb741")
 	)
-	(label "section5"
+	(label "sekcja5"
 		(at 147.32 132.08 180)
 		(effects
 			(font
@@ -6041,7 +6041,7 @@
 		)
 		(uuid "41877ad7-236e-4abf-a5fd-3ee8ce690117")
 	)
-	(label "section4"
+	(label "sekcja4"
 		(at 147.32 134.62 180)
 		(effects
 			(font
@@ -6051,7 +6051,7 @@
 		)
 		(uuid "484521c7-c300-4b87-b476-ddc53d5f79b1")
 	)
-	(label "section6"
+	(label "sekcja6"
 		(at 147.32 129.54 180)
 		(effects
 			(font
@@ -6081,7 +6081,7 @@
 		)
 		(uuid "4c5ab641-5a54-4eff-ba8b-1e7f3500d156")
 	)
-	(label "section5_LED_A"
+	(label "sekcja5_LED_A"
 		(at 232.41 52.07 180)
 		(effects
 			(font
@@ -6101,7 +6101,7 @@
 		)
 		(uuid "4e2d02ac-c72a-4a66-9e70-21de105a2a27")
 	)
-	(label "section6"
+	(label "sekcja6"
 		(at 15.24 135.89 90)
 		(effects
 			(font
@@ -6131,7 +6131,7 @@
 		)
 		(uuid "5c266006-70d6-4242-930f-13cd604ba181")
 	)
-	(label "section7"
+	(label "sekcja7"
 		(at 58.42 135.89 90)
 		(effects
 			(font
@@ -6181,7 +6181,7 @@
 		)
 		(uuid "63fafbbc-57b2-42cc-9a90-e4e19bf8305c")
 	)
-	(label "section2_LED_K"
+	(label "sekcja2_LED_K"
 		(at 124.46 50.8 90)
 		(effects
 			(font
@@ -6211,7 +6211,7 @@
 		)
 		(uuid "6d26aca4-d25c-4285-8161-f69efd9f75e5")
 	)
-	(label "section7_LED_A"
+	(label "sekcja7_LED_A"
 		(at 71.12 124.46 180)
 		(effects
 			(font
@@ -6221,7 +6221,7 @@
 		)
 		(uuid "6e9caf0e-83f2-4cc4-92a7-1694de64ece1")
 	)
-	(label "section3"
+	(label "sekcja3"
 		(at 137.16 60.96 90)
 		(effects
 			(font
@@ -6251,7 +6251,7 @@
 		)
 		(uuid "820baaef-8de1-430a-8dc0-3ad8b9384bcd")
 	)
-	(label "section3"
+	(label "sekcja3"
 		(at 147.32 137.16 180)
 		(effects
 			(font
@@ -6271,7 +6271,7 @@
 		)
 		(uuid "8fff2650-77af-4e98-827b-9064726c289c")
 	)
-	(label "section4_LED_A"
+	(label "sekcja4_LED_A"
 		(at 190.5 52.07 180)
 		(effects
 			(font
@@ -6281,7 +6281,7 @@
 		)
 		(uuid "956be461-5151-41fd-ad35-ae88a535992a")
 	)
-	(label "section3_LED_K"
+	(label "sekcja3_LED_K"
 		(at 165.1 49.53 90)
 		(effects
 			(font
@@ -6291,7 +6291,7 @@
 		)
 		(uuid "961a3afa-4488-430b-b8a1-301a5b67ddfc")
 	)
-	(label "section5"
+	(label "sekcja5"
 		(at 219.71 60.96 90)
 		(effects
 			(font
@@ -6361,7 +6361,7 @@
 		)
 		(uuid "b1e35dfa-8c52-400d-a9cd-b25316866f40")
 	)
-	(label "section7"
+	(label "sekcja7"
 		(at 147.32 127 180)
 		(effects
 			(font
@@ -6371,7 +6371,7 @@
 		)
 		(uuid "b6e111fc-2b2c-4d40-8947-93274be90990")
 	)
-	(label "section7_LED_K"
+	(label "sekcja7_LED_K"
 		(at 86.36 123.19 90)
 		(effects
 			(font
@@ -6411,7 +6411,7 @@
 		)
 		(uuid "c7f71e5e-97a8-408a-a808-28d216915ef5")
 	)
-	(label "section8_LED_A"
+	(label "sekcja8_LED_A"
 		(at 111.76 124.46 180)
 		(effects
 			(font
@@ -6441,7 +6441,7 @@
 		)
 		(uuid "d88312a9-2276-4a1f-851a-e81c0186828a")
 	)
-	(label "section2"
+	(label "sekcja2"
 		(at 147.32 139.7 180)
 		(effects
 			(font
@@ -6451,7 +6451,7 @@
 		)
 		(uuid "d96b04c4-5796-4ce0-a018-dc06ff43f3f1")
 	)
-	(label "section8_LED_K"
+	(label "sekcja8_LED_K"
 		(at 127 123.19 90)
 		(effects
 			(font
@@ -6471,7 +6471,7 @@
 		)
 		(uuid "dcf6ecb0-5c2f-4a3f-ae0a-182fe54b9039")
 	)
-	(label "section1_LED_K"
+	(label "sekcja1_LED_K"
 		(at 83.82 45.72 90)
 		(effects
 			(font
@@ -6531,7 +6531,7 @@
 		)
 		(uuid "eeda4deb-b8ee-4b41-8fd5-40c74dff2740")
 	)
-	(label "section2_LED_A"
+	(label "sekcja2_LED_A"
 		(at 109.22 52.07 180)
 		(effects
 			(font
@@ -6551,7 +6551,7 @@
 		)
 		(uuid "f069adff-b3d6-49ae-a1e0-29b309429f01")
 	)
-	(label "section8"
+	(label "sekcja8"
 		(at 99.06 135.89 90)
 		(effects
 			(font
@@ -6561,7 +6561,7 @@
 		)
 		(uuid "f12fc69c-4019-46b6-bbaf-46ae1252ec7b")
 	)
-	(label "section3_LED_A"
+	(label "sekcja3_LED_A"
 		(at 149.86 52.07 180)
 		(effects
 			(font
